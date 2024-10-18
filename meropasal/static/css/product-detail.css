@@ -1,0 +1,10 @@
+.product-information{
+    font-size: medium;
+    
+}
+.product-information span ol li{
+    font-size: 10px;
+  }
+  .img-showcase{
+    height:80px;
+  }
